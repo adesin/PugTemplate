@@ -1,0 +1,22 @@
+{
+    "name": "desin/pug-template",
+    "description": "Class for compiling pug templates in PHP",
+    "license": "proprietary",
+    "type": "composer-plugin, library",
+    "require": {
+        "php": ">=7.1",
+        "pug-php/pug": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Desin\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anton Desin",
+            "email": "anton.desin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
