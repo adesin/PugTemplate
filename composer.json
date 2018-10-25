@@ -2,7 +2,6 @@
     "name": "desin/pug-template",
     "description": "Class for compiling pug templates in PHP",
     "license": "proprietary",
-    "type": "composer-plugin, library",
     "require": {
         "php": ">=7.1",
         "pug-php/pug": "^3.2"
